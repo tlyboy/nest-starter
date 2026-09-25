@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# TypeScript 增量编译缓存（tsconfig 开了 incremental）
+*.tsbuildinfo
+
 # Logs
 logs
 *.log
