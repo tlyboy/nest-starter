@@ -51,12 +51,11 @@ pnpm test:e2e
 pnpm test:cov
 ```
 
-### Check
+### Lint
 
 ```bash
-pnpm typecheck
 pnpm lint
-pnpm check
+pnpm format
 ```
 
 ## License
