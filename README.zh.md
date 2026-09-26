@@ -54,9 +54,8 @@ pnpm test:cov
 ### 检查
 
 ```bash
-pnpm typecheck
 pnpm lint
-pnpm check
+pnpm format
 ```
 
 ## 使用许可
