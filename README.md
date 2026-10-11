@@ -12,7 +12,7 @@
 ## Install
 
 ```bash
-npx degit tlyboy/nest-starter my-project
+npx giget gh:tlyboy/nest-starter my-project
 cd my-project
 pnpm install
 ```
